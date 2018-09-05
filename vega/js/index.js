@@ -1,7 +1,6 @@
 
 
   var doc = document;
-  var loadingDone = false;
 
   var loadingPage = doc.getElementById('loadingPage');
   var loadingText = doc.getElementById('loadingText');
@@ -282,16 +281,23 @@
 
   //进度加载
   function onprogress(){
-    if(loadingDone){//加载完成
-      clearInterval(timer);
-      loadingPage.parentNode.removeChild(loadingPage);//移除加载层
-      gameView();//打开游戏层
-    }
-    if(loadingText.innerHTML==='100') loadingDone=true;
-    else{//加载中
-      p = loadingText.innerHTML-0+4;
-      loadingText.innerHTML = p+'';
-      bar.style.width = (p)+'%';
-    }
+    var img = $('img');
+    var imgSize = $(img).size();
+    var num = 0;
+    img.each(function(i){
+      var oImg = new Image();
+
+      oImg.onload = function(){
+        oImg.onload = null;
+        num++;
+        bar.style.width = parseInt((num/imgSize)*100)+'%';
+        if(num >= i){//加载完成
+          $('#loadingPage').remove();//移除加载层
+          gameView();//打开游戏层
+        }
+      }
+
+      oImg.src = img[i].src;
+    });
   }
-  var timer = setInterval(onprogress, 100);
+  onprogress();
