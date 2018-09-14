@@ -1,116 +1,116 @@
 {
-  quotes: [
+  "quotes": [
     {
-      quote:"Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!",
-      author:"The Treasure of the Sierra Mad"
+      "quote":"Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!",
+      "author":"The Treasure of the Sierra Mad"
     },
     {
-      quote:"如果你浪费了自己的年龄，那是挺可悲的。因为你的青春只能持续一点儿时间——很短的一点儿时间。",
-      author:"王尔德"
+      "quote":"如果你浪费了自己的年龄，那是挺可悲的。因为你的青春只能持续一点儿时间——很短的一点儿时间。",
+      "author":"王尔德"
     },
     {
-      quote:"When you do the common things in life in an uncommon way, you will command the attention of the world.",
-      author:"George Washington Carver"
+      "quote":"When you do the common things in life in an uncommon way, you will command the attention of the world.",
+      "author":"George Washington Carver"
     },
     {
-      quote:"这世界要是没有爱情，它在我们心中还会有什么意义！这就如一盏没有亮光的走马灯。",
-      author:"歌德"
+      "quote":"这世界要是没有爱情，它在我们心中还会有什么意义！这就如一盏没有亮光的走马灯。",
+      "author":"歌德"
     },
     {
-      quote:"Give me a museum and I'll fill it.",
-      author:"Pablo Picasso"
+      "quote":"Give me a museum and I'll fill it.",
+      "author":"Pablo Picasso"
     },
     {
-      quote:"All are lunatics, but he who can analyze his delusion is called a philosopher.",
-      author:"Ambrose Bierce"
+      "quote":"All are lunatics, but he who can analyze his delusion is called a philosopher.",
+      "author":"Ambrose Bierce"
     },
     {
-      quote:"这世界要是没有爱情，它在我们心中还会有什么意义！这就如一盏没有亮光的走马灯。",
-      author:"歌德"
+      "quote":"这世界要是没有爱情，它在我们心中还会有什么意义！这就如一盏没有亮光的走马灯。",
+      "author":"歌德"
     },
     {
-      quote:"Carpe diem. Seize the day, boys. Make your lives extraordinary.",
-      author:"Dead Poets Society"
+      "quote":"Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+      "author":"Dead Poets Society"
     },
     {
-      quote:"I think 'Hail to the Chief' has a nice ring to it.",
-      author:"John F. Kennedy"
+      "quote":"I think 'Hail to the Chief' has a nice ring to it.",
+      "author":"John F. Kennedy"
     },
     {
-      quote:"Tell 'em to go out there with all they got and win just one for the Gipper.",
-      author:"Knute Rockne All American"
+      "quote":"Tell 'em to go out there with all they got and win just one for the Gipper.",
+      "author":"Knute Rockne All American"
     },
     {
-      quote:"I've had a wonderful time, but this wasn't it.",
-      author:"Groucho Marx"
+      "quote":"I've had a wonderful time, but this wasn't it.",
+      "author":"Groucho Marx"
     },
     {
-      quote:"理想是人生的太阳。",
-      author:"德莱赛"
+      "quote":"理想是人生的太阳。",
+      "author":"德莱赛"
     },
     {
-      quote:"友谊是一棵可以庇荫的树。",
-      author:"柯尔律治"
+      "quote":"友谊是一棵可以庇荫的树。",
+      "author":"柯尔律治"
     },
     {
-      quote:"If you build it, he will come.",
-      author:"Field of Dreams"
+      "quote":"If you build it, he will come.",
+      "author":"Field of Dreams"
     },
     {
-      quote:"A friendship founded on business is better than a business founded on friendship.",
-      author:"John D. Rockefeller"
+      "quote":"A friendship founded on business is better than a business founded on friendship.",
+      "author":"John D. Rockefeller"
     },
     {
-      quote:"If you can count your money, you don't have a billion dollars.",
-      author:"J. Paul Getty"
+      "quote":"If you can count your money, you don't have a billion dollars.",
+      "author":"J. Paul Getty"
     },
     {
-      quote:"没有人不爱惜他的生命，但很少人珍视他的时间。",
-      author:"梁实秋"
+      "quote":"没有人不爱惜他的生命，但很少人珍视他的时间。",
+      "author":"梁实秋"
     },
     {
-      quote:"We didn't lose the game; we just ran out of time.",
-      author:"Vince Lombardi"
+      "quote":"We didn't lose the game; we just ran out of time.",
+      "author":"Vince Lombardi"
     },
     {
-      quote:"You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
-      author:"Dirty Harry"
+      "quote":"You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
+      "author":"Dirty Harry"
     },
     {
-      quote:"Keep your friends close, but your enemies closer.",
-      author:"The Godfather II"
+      "quote":"Keep your friends close, but your enemies closer.",
+      "author":"The Godfather II"
     },
     {
-      quote:"Elementary, my dear Watson.",
-      author:"The Adventures of Sherlock Hol"
+      "quote":"Elementary, my dear Watson.",
+      "author":"The Adventures of Sherlock Hol"
     },
     {
-      quote:"Whenever I climb I am followed by a dog called 'Ego'.",
-      author:"Friedrich Nietzsche"
+      "quote":"Whenever I climb I am followed by a dog called 'Ego'.",
+      "author":"Friedrich Nietzsche"
     },
     {
-      quote:"我读的书愈多，就愈亲近世界，愈明了生活的意义，愈觉得生活的重要。",
-      author:"高尔基"
+      "quote":"我读的书愈多，就愈亲近世界，愈明了生活的意义，愈觉得生活的重要。",
+      "author":"高尔基"
     },
     {
-      quote:"Give me a museum and I'll fill it.",
-      author:"Pablo Picasso"
+      "quote":"Give me a museum and I'll fill it.",
+      "author":"Pablo Picasso"
     },
     {
-      quote:"相信谎言的人必将在真理之前毁灭。",
-      author:"赫尔巴特"
+      "quote":"相信谎言的人必将在真理之前毁灭。",
+      "author":"赫尔巴特"
     },
     {
-      quote:"时间是由分秒积成的，善于利用零星时间的人，才会做出更大的成绩来。",
-      author:"华罗庚"
+      "quote":"时间是由分秒积成的，善于利用零星时间的人，才会做出更大的成绩来。",
+      "author":"华罗庚"
     },
     {
-      quote:"温顺的青年人在图书馆里长大，他们相信他们的责任是应当接受西塞罗，洛克，培根发表的意见；他们忘了西塞罗，洛克与培根写这些书的时候，也不过是在图书馆里的青年人",
-      author:"爱默生"
+      "quote":"温顺的青年人在图书馆里长大，他们相信他们的责任是应当接受西塞罗，洛克，培根发表的意见；他们忘了西塞罗，洛克与培根写这些书的时候，也不过是在图书馆里的青年人",
+      "author":"爱默生"
     },
     {
-      quote:"千军易得，一将难求。",
-      author:"马致远"
+      "quote":"千军易得，一将难求。",
+      "author":"马致远"
     }
   ]
 }
