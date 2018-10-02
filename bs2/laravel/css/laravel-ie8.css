@@ -1,0 +1,19 @@
+@charset 'utf8';
+
+.header,
+.h-nav,
+.footer,
+.copyright{
+  min-width:940px;
+}
+.h-fw_verson li{
+  min-width:40px;
+  padding:0 8px;
+}
+.h-nav .nav-toggle-button{
+  display:none;
+}
+.footer,
+.copyright{
+  padding:30px 0;
+}
